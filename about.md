@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+tags: Julie
 ---
 # About page
 
